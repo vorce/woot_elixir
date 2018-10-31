@@ -52,7 +52,6 @@ Show: supervision tree in code, and observer
 
 docker-compose up -d
 
-
 ## Demo 3.5; Distribution and observability
 
 Show: Connect 2 nodes, rpc calls, list processes (for debugging), supervision
@@ -86,9 +85,9 @@ Brutally kill the process:
 
 ---
 
-## Demo ideas
+## Other demo ideas
 
-- Stian: i think a simple web app using phoenix, showing how pattern matching work maybe. some good introduction to functional programming. and maybe add some rabbitmq consumer or publisher or your processes examples. like HTTP Post -> rabbit publisher
-- Niall: Nerves might also be worth a mention
-- Niall: Build a chatroom in 100 lines: https://gist.github.com/josevalim/2783092
-- Mateusz: I would just start million processes on your machine :D
+- i think a simple web app using phoenix, showing how pattern matching work maybe. some good introduction to functional programming. and maybe add some rabbitmq consumer or publisher or your processes examples. like HTTP Post -> rabbit publisher
+- Nerves might also be worth a mention
+- Build a chatroom in 100 lines: https://gist.github.com/josevalim/2783092
+- I would just start million processes on your machine :D
