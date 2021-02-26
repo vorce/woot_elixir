@@ -1,6 +1,6 @@
 # WootElixir
 
-Elixir demo application.
+Elixir demo application. Used for an internal tech talk as an intro to Elixir (and why we use it in our team).
 
 Run it:
 
